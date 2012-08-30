@@ -1,4 +1,6 @@
+//lol computer//
 package com.untamedears.citadel;
+
 
 import java.io.IOException;
 import java.io.PrintWriter;
